@@ -1,0 +1,277 @@
+[
+
+   {
+      "$ItemType": "Furniture",
+      "ID": "Red Sleeping Bag",
+      "Type": "Bed",
+      "BedType": "Single",
+      "Configurations": [
+         {
+            "Texture": "assets/sleeping_bag.png:0 ",
+            "FrontTexture": "assets/sleeping_bag.png:1",
+            "DisplaySize": { "X": 2, "Y": 4 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Red Sleeping Bag"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Green Sleeping Bag",
+      "Type": "Bed",
+      "BedType": "Single",
+      "Configurations": [
+         {
+            "Texture": "assets/sleeping_bag.png:2 ",
+            "FrontTexture": "assets/sleeping_bag.png:3",
+            "DisplaySize": { "X": 2, "Y": 4 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Green Sleeping Bag"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Blue Sleeping Bag",
+      "Type": "Bed",
+      "BedType": "Single",
+      "Configurations": [
+         {
+            "Texture": "assets/sleeping_bag.png:4 ",
+            "FrontTexture": "assets/sleeping_bag.png:5",
+            "DisplaySize": { "X": 2, "Y": 4 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Blue Sleeping Bag"
+      }
+   },
+{
+      "$ItemType": "Furniture",
+      "ID": "Decorative Sleeping Bag",
+      "Type": "Rug",
+      "Configurations": [
+         {
+            "Texture": "assets/sleeping_bag.png:0 ",
+            "DisplaySize": { "X": 2, "Y": 4 },
+            "CollisionHeight": 3
+
+         },
+         {
+            "Texture": "assets/sleeping_bag.png:2 ",
+            "DisplaySize": { "X": 2, "Y": 4 },
+            "CollisionHeight": 3
+
+         },
+         {
+            "Texture": "assets/sleeping_bag.png:4 ",
+            "DisplaySize": { "X": 2, "Y": 4 },
+            "CollisionHeight": 3
+
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 400,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Decorative Sleeping Bag"
+      }
+   },
+
+   {
+      "$ItemType": "Furniture",
+      "ID": "Red Camping Chair",
+      "Type": "Armchair",
+      "Configurations": [
+         {
+            "Texture": "assets/camping_chair.png:0 ",
+            "DisplaySize": { "X": 2, "Y": 2 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Red Camping Chair"
+      }
+   },
+
+   {
+      "$ItemType": "Furniture",
+      "ID": "Green Camping Chair",
+      "Type": "Armchair",
+      "Configurations": [
+         {
+            "Texture": "assets/camping_chair.png:1 ",
+            "DisplaySize": { "X": 2, "Y": 2 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Green Camping Chair"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Blue Camping Chair",
+      "Type": "Armchair",
+      "Configurations": [
+         {
+            "Texture": "assets/camping_chair.png:2 ",
+            "DisplaySize": { "X": 2, "Y": 2 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Blue Camping Chair"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Backpack",
+      "Type": "Decoration",
+      "Configurations": [
+         {
+            "Texture": "assets/backpack.png:0 ",
+            "DisplaySize": { "X": 1, "Y": 2 },
+            "CollisionHeight": 1
+         },
+         {
+            "Texture": "assets/backpack.png:1 ",
+            "DisplaySize": { "X": 1, "Y": 2 },
+            "CollisionHeight": 1
+         },
+         {
+            "Texture": "assets/backpack.png:2 ",
+            "DisplaySize": { "X": 1, "Y": 2 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Backpack"
+      }
+   },
+    {
+      "$ItemType": "Furniture",
+      "ID": "Marshmallow Stick",
+      "Type": "Decoration",
+      "Configurations": [
+         {
+            "Texture": "assets/marshmallow.png:0@6, assets/marshmallow.png:1@6, assets/marshmallow.png:2@6 ",
+            "DisplaySize": { "X": 1, "Y": 2 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Marshmallow Stick"
+      }
+   },
+{
+      "$ItemType": "Furniture",
+      "ID": "Picnic Table",
+      "Type": "Bench",
+      "Configurations": [
+         {
+            "Texture": "assets/picnic_table.png:0 ",
+            "DisplaySize": { "X": 5, "Y": 4 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Picnic Table"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Camping Lantern",
+      "Type": "Lamp",
+      "Configurations": [
+         {
+            "Texture": "assets/lantern.png:0 ",
+            "NightTexture": "assets/lantern.png:1 ",
+            "DisplaySize": { "X": 1, "Y": 1 },
+            "CollisionHeight": 1
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 200,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.camping/Camping Lantern"
+      }
+   },
+]
