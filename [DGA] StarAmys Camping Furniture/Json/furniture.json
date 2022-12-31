@@ -17,7 +17,7 @@
    {
       "$ItemType": "ShopEntry",
       "ShopId": "Carpenter",
-      "Cost": 1000,
+      "Cost": 800,
       "Item":  
       {
          "Type": "DGAItem",
@@ -41,7 +41,7 @@
    {
       "$ItemType": "ShopEntry",
       "ShopId": "Carpenter",
-      "Cost": 1000,
+      "Cost": 800,
       "Item":  
       {
          "Type": "DGAItem",
@@ -65,7 +65,7 @@
    {
       "$ItemType": "ShopEntry",
       "ShopId": "Carpenter",
-      "Cost": 1000,
+      "Cost": 800,
       "Item":  
       {
          "Type": "DGAItem",
@@ -123,7 +123,7 @@
    {
       "$ItemType": "ShopEntry",
       "ShopId": "Carpenter",
-      "Cost": 1000,
+      "Cost": 600,
       "Item":  
       {
          "Type": "DGAItem",
@@ -146,7 +146,7 @@
    {
       "$ItemType": "ShopEntry",
       "ShopId": "Carpenter",
-      "Cost": 1000,
+      "Cost": 600,
       "Item":  
       {
          "Type": "DGAItem",
@@ -168,7 +168,7 @@
    {
       "$ItemType": "ShopEntry",
       "ShopId": "Carpenter",
-      "Cost": 1000,
+      "Cost": 600,
       "Item":  
       {
          "Type": "DGAItem",
@@ -200,7 +200,7 @@
    {
       "$ItemType": "ShopEntry",
       "ShopId": "Carpenter",
-      "Cost": 1000,
+      "Cost": 400,
       "Item":  
       {
          "Type": "DGAItem",
@@ -222,7 +222,7 @@
    {
       "$ItemType": "ShopEntry",
       "ShopId": "Carpenter",
-      "Cost": 1000,
+      "Cost": 300,
       "Item":  
       {
          "Type": "DGAItem",
