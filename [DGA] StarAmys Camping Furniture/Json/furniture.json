@@ -236,8 +236,8 @@
       "Configurations": [
          {
             "Texture": "assets/picnic_table.png:0 ",
-            "DisplaySize": { "X": 5, "Y": 4 },
-            "CollisionHeight": 1
+            "DisplaySize": { "X": 4, "Y": 4 },
+            "CollisionHeight": 3
          },
       ]
    }, 
